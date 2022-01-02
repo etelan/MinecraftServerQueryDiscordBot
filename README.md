@@ -63,7 +63,7 @@ MINECRAFT_IP=133.114.63.200:25565
 
 ## Usage
 
-Just run the file, by double clicking.
+Just run the file, by double clicking `MinecraftServerQueryDiscordBot.py`.
 
 To add the discord bot to your server, click the OAuth2 tab of your application.
 
