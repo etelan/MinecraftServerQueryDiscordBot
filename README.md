@@ -25,7 +25,7 @@ pip3 install discord.py
 pip3 install mcstatus
 ```
 
-### Make your discord bot token
+### Use Discord Developer Portal to Make Bot
 1. [Discord Developer Portal](https://discord.com/developers/).
 
 2. New Application, fill out the name.
